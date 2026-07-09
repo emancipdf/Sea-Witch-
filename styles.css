@@ -12,8 +12,7 @@ body{background-color: #C2F5E3}
 
 	img{display: block;
 		margin: auto;
-		border-style: double;
-		border-width: 20px;}
+		border-width: 10px;}
 
 	ul{list-style-type: none;
 		margin-left: 23%;
